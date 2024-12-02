@@ -8,11 +8,13 @@ Let your favoriate character speak Japanese and any other languages in a decent 
 5. Run the Notebook
 
 Speak Japanese (pre-trained Model):
+-
 "今日はいい天気ですね。" - Today's weather is fine.
 
 "日本語を話しましょう！" - Let's speak Japanese!
 
 Speak English (test cases):
+-
 "I think, therefore I am." – René Descartes
 
 アイ シンク、ゼアフォア アイ アム。
