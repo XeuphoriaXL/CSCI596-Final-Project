@@ -3,7 +3,7 @@ Let your favorite character speak Japanese and any other languages with a decent
 
 Introduction:
 -
-Utilize Pytorch's Cuda to load the voice model and waveglow model into separate Cuda memory to accelerate the overall voice generation process.
+Utilize Torch's Cuda to load the voice model and waveglow model into separate Cuda memory to accelerate the overall voice generation process.
 
 How to use:
 -
