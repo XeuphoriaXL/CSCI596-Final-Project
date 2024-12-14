@@ -9,7 +9,7 @@ Let your favoriate character speak Japanese and any other languages in a decent 
 
 Speak Japanese (pre-trained Model):
 -
-"今日はいい天気ですね。"[Download the sample audio](Today's fine weather.wav) - Today's weather is fine.
+"今日はいい天気ですね。"[Download the sample audio]([Today's fine weather.wav](https://github.com/XeuphoriaXL/CSCI596-Final-Project/blob/main/Today's%20fine%20weather.wav)) - Today's weather is fine.
 
 "日本語を話しましょう！"[Download the sample audio](https://github.com/XeuphoriaXL/CSCI596-Final-Project/blob/main/Let's%20speak%20Japanese.wav) - Let's speak Japanese!
 
