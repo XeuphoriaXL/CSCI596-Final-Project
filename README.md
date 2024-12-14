@@ -17,7 +17,7 @@ Speak English (test cases):
 -
 "I think, therefore I am." – René Descartes
 
-アイ シンク、ゼアフォア アイ アム。[Download the sample audio](I think therefore I am.wav)
+アイ シンク、ゼアフォア アイ アム。[Download the sample audio](./audio/I think therefore I am.wav)
 "The only thing we have to fear is fear itself." – Franklin D. Roosevelt
 
 ジ オンリー シング ウィ ハヴ トゥ フィアー イズ フィアー イットセルフ。
