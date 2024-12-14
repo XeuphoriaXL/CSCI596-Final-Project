@@ -1,6 +1,12 @@
 # CSCI596-Final-Project
-Let your favoriate character speak Japanese and any other languages in a decent Japanese accent!
+Let your favorite character speak Japanese and any other languages with a decent Japanese accent!
 
+Introduction:
+-
+Utilize Pytorch's Cuda to load the voice model and waveglow model into separate Cuda memory to accelerate the overall voice generation process.
+
+How to use:
+-
 1. Go to google colab -> Open Notebook
 2. Select "GitHub" and put "XeuphoriaXL/CSCI596-Final-Project" as repository path
 3. Open Notebook
